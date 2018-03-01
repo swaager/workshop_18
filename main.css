@@ -18,9 +18,9 @@ h4 {
     margin-bottom: 30px;
 }
 .jumbotron {
-  background: #C04848;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #FC466B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     color: #fff;
     padding: 100px 25px;
@@ -30,9 +30,9 @@ h4 {
     padding: 60px 50px;
 }
 .bg-grey {
-  background: #ee0979;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #FC466B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 .logo-small {
@@ -40,7 +40,7 @@ background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, F
     font-size: 50px;
 }
 .logo {
-    color: #f4511e;
+    color: #FC466B;
     font-size: 200px;
 }
 
@@ -65,17 +65,18 @@ background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, F
 }
 .panel-footer .btn:hover {
     border: 1px solid #f4511e;
-    background: #ee0979;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ff6a00, #ee0979);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FC466B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     color: #f4511e;
 }
 .panel-heading {
     color: #fff !important;
-    background: #C04848;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #480048, #C04848);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #480048, #C04848); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FC466B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 
     padding: 25px;
     border-bottom: 1px solid transparent;
@@ -101,9 +102,9 @@ background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, F
 }
 .navbar {
     margin-bottom: 0;
-    background: #000000;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FC466B;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     z-index: 9999;
     border: 0;
@@ -125,9 +126,9 @@ background: linear-gradient(to right, #ff6a00, #ee0979); /* W3C, IE 10+/ Edge, F
     color: #fff !important;
 }
 .site-footer {
-  background: #000000;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #FC466B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #3F5EFB, #FC466B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   color: #fff;
   padding: 10px 0;
@@ -197,8 +198,8 @@ font-size: 30px !important;
 .partner .partner-box {
   display: block;
   opacity: 0.3;
-  height: 150px;
-  width: 150px;
+  height: 300px;
+  width: 300px;
   margin: 25px auto;
   -webkit-transition: 0.5s all linear;
           transition: 0.5s all linear;
@@ -207,29 +208,9 @@ font-size: 30px !important;
   opacity: 1;
 }
 .partner .partner-box-1 {
-  background: url(partner/partner-1.png) no-repeat center center/contain;
+  background: url(partner/transpe.png) no-repeat center center/contain;
 }
-.partner .partner-box-2 {
-  background: url(partner/partner-2.png) no-repeat center center/contain;
-}
-.partner .partner-box-3 {
-  background: url(partner/partner-3.png) no-repeat center center/contain;
-}
-.partner .partner-box-4 {
-  background: url(partner/partner-4.png) no-repeat center center/contain;
-}
-.partner .partner-box-5 {
-  background: url(partner/partner-5.png) no-repeat center center/contain;
-}
-.partner .partner-box-6 {
-  background: url(partner/partner-6.png) no-repeat center center/contain;
-}
-.partner .partner-box-7 {
-  background: url(partner/partner-7.png) no-repeat center center/contain;
-}
-.partner .partner-box-8 {
-  background: url(partner/partner-8.png) no-repeat center center/contain;
-}
+
 
 .section {
     padding: 70px 0;
